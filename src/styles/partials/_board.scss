@@ -1,0 +1,21 @@
+$border-color: rgb(151, 151, 151);
+
+.row {
+  display: flex;
+  gap: 2px;
+  margin: 1px;
+}
+
+.column-top {
+  margin: 2px;
+  width: 60px;
+  height: 60px;
+  border: 1px dashed $border-color;
+  background-color: transparent;
+}
+
+.column {
+  border: 1px solid $border-color;
+  width: 60px;
+  height: 60px;
+}

@@ -1,0 +1,34 @@
+.board {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 500;
+  }
+}
+
+.modal {
+  position: absolute;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  z-index: 50;
+}
+
+#page-mask {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  z-index: -2;
+}

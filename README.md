@@ -3,7 +3,7 @@
 <h2 align="center">Connect Four is a game where players must connect 4 of the same colored discs in a row to win. This can be done horizontally, vertically or diagonally.
 </h2>
 
-<p align="center">Check out the  <a href="https://gotmynews.herokuapp.com" target="_blank">website</a></p>
+<p align="center">Check out the  <a href="https://ablaze-reason.surge.sh" target="_blank">game</a></p>
 
 <h1>⚙️ Development</h1>
 
